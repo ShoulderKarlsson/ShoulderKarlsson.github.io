@@ -10,7 +10,7 @@ dl, dd, ol, ul, figure {
 
 
 html { 
-  background: url("/bakgrund.jpg") no-repeat center center fixed; 
+  background: url("/pics/bakgrund.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -173,10 +173,8 @@ pre {
     margin-right: auto;
     margin-left: auto;
     height: auto;
-    /**
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
-    */
     //background-color: #ownGray;
     @extend %clearfix;
 
