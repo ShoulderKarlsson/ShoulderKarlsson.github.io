@@ -1,5 +1,0 @@
-/* TEAM */
-
-Webmaster: Axel Karlsson
-mail: ak223fy@student.lnu.se
-github: ShoulderKarlsson

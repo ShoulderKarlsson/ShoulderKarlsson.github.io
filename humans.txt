@@ -1,0 +1,11 @@
+/* TEAM */
+
+Webmaster: Axel Karlsson
+mail: ak223fy@student.lnu.se
+github: ShoulderKarlsson
+
+/* SITE */
+Last update: 2015-11-11
+Language: English
+Doctype: HTML5
+IDE: Atom, Jekyll, Liquid and SCSS
