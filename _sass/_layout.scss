@@ -191,7 +191,7 @@
     max-width:         calc(800px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    background-color: rgba(51, 46, 46, 0.5);
+    background-color: rgba(51, 46, 46, 0.7);
     border-radius: 15px;
 }
 
@@ -237,6 +237,7 @@
     letter-spacing: 2px;
     line-height: 1;
     font-family: Comfortaa;
+    color:#fff;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -296,7 +297,6 @@
     }
 
     p {
-        color:yellow;
-        font-family: sans-serif;
+        color:#fff;
     }
 }
