@@ -236,7 +236,7 @@
     font-size: 52px;
     letter-spacing: 2px;
     line-height: 1;
-    font-family: Comfortaa;
+    font-family: Comfortaa, monospace;
     color:#fff;
 
     @include media-query($on-laptop) {
@@ -248,7 +248,7 @@
     float: left;
     margin-right: 25px;
     margin-left: 5px;
-    font-family: Comfortaa;
+    font-family: Comfortaa, monospace;
     padding: 4px;
     transition: all ease 0.3s;
 
@@ -259,6 +259,8 @@
 
 
 }
+
+
 
 .postHeaderLink {
     &:visited {
@@ -271,6 +273,11 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+
+    h1 {
+      color: #fc9000;
+      font-family: Comfortaa, monospace;
+    }
 
     h2 {
         font-size: 32px;
@@ -297,6 +304,7 @@
     }
 
     p {
-        color:#fff;
+        color: rgb(255, 255, 255);
+        font-family: tahoma;
     }
 }
