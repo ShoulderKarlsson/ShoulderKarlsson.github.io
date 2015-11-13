@@ -9,15 +9,17 @@ dl, dd, ol, ul, figure {
 }
 
 
-html { 
-  background: url("/pics/bakgrund.jpg") no-repeat center center fixed; 
+html {
+  background: url("/pics/bakgrund.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 
-
+p {
+  font-size: 15px;
+}
 
 // Sticky footer
 html, body {
@@ -85,6 +87,7 @@ ul, ol {
 }
 
 li {
+  list-style-type: none;
     > ul,
     > ol {
          margin-bottom: 0;

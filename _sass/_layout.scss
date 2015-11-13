@@ -191,8 +191,15 @@
     max-width:         calc(800px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    background-color: rgba(51, 46, 46, 0.7);
+    background-color: $pageContentGray;
     border-radius: 15px;
+}
+
+.highlight {
+  border-radius: 10px;
+  pre {
+
+  }
 }
 
 .page-heading {
@@ -212,8 +219,6 @@
     font-size: $small-font-size;
     color: #33bada;
 }
-
-
 
 .post-link {
     display: block;
@@ -275,7 +280,7 @@
     margin-bottom: $spacing-unit;
 
     h1 {
-      color: #fc9000;
+      color: $ownOrange;
       font-family: Comfortaa, monospace;
     }
 
@@ -297,10 +302,17 @@
 
     h4 {
         font-size: 20px;
+        font-family: Comfortaa, monospace;
+        color: $ownOrange;
 
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+
+    h5 {
+      font-family: Comfortaa, monospace;
+      color:$ownOrange;
     }
 
     p {

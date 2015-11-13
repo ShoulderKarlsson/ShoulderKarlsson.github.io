@@ -22,4 +22,4 @@ I thought it was interesting immediately and started doing it as a hobby on the 
 When I'm not writing about myself in blogs I spend most of my time dedicated to my studies.
 Im currently enrolled at Linneus university and studying Web programming.
 Whenever I dont study, I like to spend my time with my friends or drink coffe. Very
-often, Study, drinking coffe and spending time with my friends comes hand in hand. 
+often, Study, drinking coffe and spending time with my friends comes hand in hand.
