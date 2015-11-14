@@ -16,7 +16,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    font-family: $headerFont;
+    font-family: Comfortaa, monospace;
     font-weight: bold;
     letter-spacing: 3px;
     &,
@@ -42,7 +42,7 @@
     .page-link {
         color: #202120;
         line-height: $base-line-height;
-        font-family: $headerFont;
+        font-family: Comfortaa, monospace;
         font-weight: bold;
         font-size: 26px;
         padding: 11px;
@@ -197,9 +197,7 @@
 
 .highlight {
   border-radius: 10px;
-  pre {
-
-  }
+  width: Calc(100% - 200px);
 }
 
 .page-heading {
