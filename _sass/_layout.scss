@@ -192,7 +192,7 @@
     margin-right: auto;
     margin-left: auto;
     background-color: $pageContentGray;
-    border-radius: 15px;
+    border-radius: 15px
 }
 
 .highlight {
@@ -215,7 +215,7 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: #33bada;
+    color: #ffffff;
 }
 
 .post-link {
@@ -224,7 +224,10 @@
 
 }
 
-
+.post-div {
+  width: auto;
+  text-align: center;
+}
 
 /**
  * Posts
@@ -248,7 +251,7 @@
 }
 
 .postHeader {
-    float: left;
+    //float: left;
     margin-right: 25px;
     margin-left: 5px;
     font-family: Comfortaa, monospace;
@@ -256,18 +259,21 @@
     transition: all ease 0.3s;
 
     &:hover {
-        border-top: solid 3px #326e26 ;
-
+        //border-top: solid 3px #326e26
     }
-
-
 }
 
 
 
 .postHeaderLink {
+  color: #202120;
+  transition: all ease 0.5s;
     &:visited {
-        color:#202120  ;
+        color:#202120 ;
+     }
+
+     &:hover {
+       color: $ownOrange;
      }
 
 

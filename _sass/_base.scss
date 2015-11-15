@@ -18,7 +18,7 @@ html {
 }
 
 p {
-  font-size: 15px;
+  font-size: 15px
 }
 
 // Sticky footer
@@ -178,7 +178,8 @@ pre {
     height: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
-    //background-color: #ownGray;
+    //background-color: #ownGray
+
     @extend %clearfix;
 
     @include media-query($on-laptop) {
