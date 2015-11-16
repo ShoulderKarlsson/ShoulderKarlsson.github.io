@@ -179,7 +179,8 @@ pre {
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     //background-color: #ownGray
-
+    // Test för att få det i mitten
+    //text-align: center;
     @extend %clearfix;
 
     @include media-query($on-laptop) {

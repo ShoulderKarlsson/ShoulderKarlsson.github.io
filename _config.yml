@@ -5,7 +5,8 @@ infoTitle: General Information
 email: ak223fy@student.lnu.se
 description: > # this means to ignore newlines until "baseurl:"
  This is a course blog for 1DV022. On this site you will find
- my thoughts about Jekyll, Sass and Liquid.
+ blog posts about almost anything that is related to tech and stuff I
+ find interesting!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username:
