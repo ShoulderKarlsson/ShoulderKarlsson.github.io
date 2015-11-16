@@ -102,5 +102,5 @@ This is where Jekyll really shines. Since the blog posts follow the same layout,
 
 #What is Open Graph and how did you make us if it?
 Open graph is a very clever way when it comes to advertising your website in the context
-of social media flows. You use with a couple of meta tags and it creates a perfect "object" when you share your website.
-The way to implement Open Graph protocol is through a couple meta tags. These meta tags allow you to integrate your website into the Graph of social media such as facebook.
+of social media flows. You use a set of meta tags and input specific information that the browser later uses to create a Object that suits in a open graph.
+Some of the most common tags are image, title and description.
