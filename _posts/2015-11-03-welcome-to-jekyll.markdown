@@ -100,4 +100,7 @@ and not that complicated. The first thing you had to do was create a account on 
 After your account was ready you got a piece of JavaScript code that you could paste at the location you wanted able to comment.
 This is where Jekyll really shines. Since the blog posts follow the same layout, the obvious place to implement the code was in the layout for posts.
 
-#What is open graph and how did you make us if it?
+#What is Open Graph and how did you make us if it?
+Open graph is a very clever way when it comes to advertising your website in the context
+of social media flows. You use with a couple of meta tags and it creates a perfect "object" when you share your website.
+The way to implement Open Graph protocol is through a couple meta tags. These meta tags allow you to integrate your website into the Graph of social media such as facebook.

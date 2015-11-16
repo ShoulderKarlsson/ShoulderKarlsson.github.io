@@ -15,7 +15,7 @@ always been very baffling to me and I wanted to learn more about websites and ho
 When I was enrolling highschool I first started at a school focused on IT. After a
 couple of weeks I dropped out because I didn't like the environment of that school and started a more broadsided
 program. About a year ago I looked more into coding and read a article about HTML, CSS and JavaScript.
-I thought it was interesting immediately and started doing it as a hobby on the side.
+I got interested immediately and have been doing as a hobby on the side ever since.
 
 #What do I do?
 

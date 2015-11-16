@@ -19,15 +19,15 @@
     font-family: Comfortaa, monospace;
     font-weight: bold;
     letter-spacing: 3px;
+    transition: all ease 0.5s;
     &,
     &:visited {
         color:#202120;
     }
 
     &:hover {
-        // Hover effect on home
+      color:#fff;
     }
-
 }
 
 .site-nav {
@@ -46,10 +46,15 @@
         font-weight: bold;
         font-size: 26px;
         padding: 11px;
+        transition: all ease 0.5s;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
+        }
+
+        &:hover {
+          color:#fff;
         }
     }
 
@@ -197,7 +202,8 @@
 
 .highlight {
   border-radius: 10px;
-  width: Calc(100% - 200px);
+
+  //width: Calc(100% - 200px);
 }
 
 .page-heading {
