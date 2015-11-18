@@ -1,7 +1,7 @@
 /* TEAM */
 
 Webmaster: Axel Karlsson
-mail: ak223fy@student.lnu.se
+mail: ak223fy [at] student.lnu.se
 github: ShoulderKarlsson
 
 /* SITE */
